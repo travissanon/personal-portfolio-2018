@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "title": "Sparkeats",
+    "description": "A collection of restaurant reviews and recommendations from sparkbox employees.",
+    "tags": "javascript, full-stack, sails-js, mysql",
+    "url": "https://eats.seesparkbox.com/"
+  },
+  {
+    "id": "2",
+    "title": "Discord Megaphone",
+    "description": "A Discord bot that converts text into regional indicators. 📣😈",
+    "tags": "javascript, back-end, API",
+    "url": "https://github.com/travissanon/discord-megaphone"
+  },
+  {
+    "id": "3",
+    "title": "100 Algorithms Challenge",
+    "description": "A collection of 100 programming algorithims common in technical interviews.",
+    "tags": "algorithms, javascript",
+    "url": "https://github.com/travissanon/100-algorithms"
+  },
+  {
+    "id": "4",
+    "title": "Ruby Tron Game",
+    "description": "The original Tron game created with Ruby2D.",
+    "tags": "ruby, game-dev",
+    "url": "https://github.com/travissanon/ruby-tron-game"
+  },
+  {
+    "id": "5",
+    "title": "Apprenticeship Notes",
+    "description": "A collection of notes written throughout my Sparkbox apprenticeship. 🤓",
+    "tags": "notes, programming",
+    "url": "https://github.com/travissanon/apprenticeship-notes"
+  },
+  {
+    "id": "6",
+    "title": "Self-Taught Collectibles",
+    "description": "An archive of some of the highest quality content creators out there for both development and design.",
+    "tags": "react, gatsby, javascript",
+    "url": "https://github.com/travissanon/self-taught-collectibles"
+  },
+  {
+    "id": "7",
+    "title": "Cards Against Humanity",
+    "description": "An online version of the popular game Cards Against Humanity.",
+    "tags": "javascript, socket-io, front-end, back-end",
+    "url": "https://github.com/travissanon/cards-against-humanity"
+  },
+  {
+    "id": "8",
+    "title": "Clean Code Notes",
+    "description": "A collection of notes taken from the popular programming book 'Clean Code'.",
+    "tags": "notes, programming",
+    "url": "https://github.com/travissanon/clean-code"
+  },
+  {
+    "id": "9",
+    "title": "Youtube Job Board",
+    "description": "A collection of jobs.",
+    "tags": "javascript, firebase, front-end",
+    "url": "https://github.com/travissanon/youtube-job-board"
+  },
+  {
+    "id": "10",
+    "title": "Batman Symbol Canvas",
+    "description": "The Bat Symbol created with HTML5 canvas.",
+    "tags": "javascript, front-end, canvas",
+    "url": "https://codepen.io/DevMaterial/full/YEPwGM/"
+  },
+  {
+    "id": "11",
+    "title": "Gradient Event Card",
+    "description": "A collection of beautifully designed (not by me) event cards, Built with CSS.",
+    "tags": "css, front-end, design, accessibility",
+    "url": "https://codepen.io/DevMaterial/full/bMrbbM/"
+  },
+  {
+    "id": "14",
+    "title": "Medium Recommended Sidebar",
+    "description": "A replica of Medium's recommended articles sidebar.",
+    "tags": "css, front-end, design",
+    "url": "https://codepen.io/DevMaterial/full/rrPWdz/"
+  },
+  {
+    "id": "12",
+    "title": "Saitama CSS Drawing",
+    "description": "A drawing of a main character of the popular series 'One Punch Man' with CSS.",
+    "tags": "css, front-end",
+    "url": "https://codepen.io/DevMaterial/full/rzXZEK/"
+  },
+  {
+    "id": "13",
+    "title": "Jake the Dog CSS Drawing",
+    "description": "A drawing of a main character of the series 'Adventure Time' with CSS.",
+    "tags": "css, front-end",
+    "url": "https://codepen.io/DevMaterial/full/rGagxm/"
+  },
+  {
+    "id": "14",
+    "title": "Finn the Human CSS Drawing",
+    "description": "A drawing of a main character of the series 'Adventure Time' with CSS.",
+    "tags": "css, front-end",
+    "url": "https://codepen.io/DevMaterial/full/wrqVrq/"
+  }
+]
