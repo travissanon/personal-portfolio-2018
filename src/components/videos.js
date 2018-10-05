@@ -32,9 +32,13 @@ const Video = ({ data, index }) => {
   const replaceTextInString = (str, a, b) => {
     return str.replace(a, b);
   }
+
+  console.log(data);
   return (
     <div className="main__video" key={index}>
-      <img src={replaceTextInString(data.snippet.thumbnails.high.url, "hqdefault", "maxresdefault")} alt=""/>
+      <a href={`https://youtube.com/watch?v=${data.id.videoId}`}>
+        <img src={replaceTextInString(data.snippet.thumbnails.high.url, "hqdefault", "maxresdefault")} alt=""/>
+      </a>
       <div className="main__tags">
         <p>Javascript, Front-End</p>
       </div>
@@ -47,7 +51,3 @@ const Video = ({ data, index }) => {
 }
 
 export default Videos
-
-// {data.map((video) => {
-//   return <Video data={video} />
-// })}
