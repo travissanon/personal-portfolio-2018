@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
+import fetch from 'isomorphic-fetch'
 
 import Videos from '../components/videos'
 import Articles from '../components/articles'
